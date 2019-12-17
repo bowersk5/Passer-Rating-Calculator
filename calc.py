@@ -1,4 +1,4 @@
-#passer rating calculator
+#passer rating calculator based on NFL rules
 
 a1 = int(input("How many completions? "))
 a2 = int(input("How many attempts? "))
